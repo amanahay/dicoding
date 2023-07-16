@@ -1,0 +1,2 @@
+# dicoding
+Latihan dari dicoding
